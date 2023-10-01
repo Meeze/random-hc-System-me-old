@@ -1,0 +1,24 @@
+name: Youtube
+version: 1.0
+author: pooky
+main: de.pooky.main.Main
+
+commands:
+    money:
+    addcoins:
+    pay:
+    removecoins:
+    setcoins:
+    menu:
+    perk:
+    goldswitch:
+    extra:
+    fill:
+    enchant:
+    abfall:
+      aliases: [d, muell, mull]
+    eat:
+      aliases: [feed]
+    fix:
+      aliases: [ifix, repair]
+   
